@@ -45,3 +45,10 @@
 <div align="center">
   <i>"Transformando café em código desde 2022 ☕"</i>
 </div>
+
+<!-- GitHub Snake Contribution -->
+<div align="center">
+  <h2>🐍 Minha Cobra no GitHub</h2>
+  
+  <img src="https://github.com/JulioCesarSilva99/JulioCesarSilva99/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+</div>
