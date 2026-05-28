@@ -3,8 +3,8 @@
   
   <p>🚀 Aprendendo a desenvolver Java | Cursando o Programa Jovem Programador</p>
 
-  <img src="https://komarev.com/ghpvc/?username=JulioCesarSilva99&color=6e40c9&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es" alt="Profile views" />
-</div>
+  <!--<img src="https://komarev.com/ghpvc/?username=JulioCesarSilva99&color=6e40c9&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es" alt="Profile views" />
+</div>-->
 
 ---
 
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarSilva99&layout=compact&theme=tokyonight" />
 </div>
 
-### 🌐 Vamos nos conectar?
+### 🌐 Meus Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-cesar-3aa572380)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUUSUARIO)
