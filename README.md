@@ -10,10 +10,13 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🌱 Atualmente cursando o Programa Jovem Programador;
-- 🎯 Foco em Java;
-- 📚 Sempre querendo aprendendo algo novo;
-- 💡 Aberto a colaborações e novos projetos;
+ 🌱 Atualmente cursando o Programa Jovem Programador;
+ 
+ 🎯 Foco em Java;
+ 
+ 📚 Sempre querendo aprendendo algo novo;
+ 
+ 💡 Aberto a colaborações e novos projetos;
 
 <!-- 🛠️ Tecnologias e Ferramentas
 
@@ -26,12 +29,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>-->
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
+
+
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarSilva99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarSilva99&layout=compact&theme=tokyonight" />
-</div>
+</div>-->
 
 ### 🌐 Meus Contatos
 
@@ -42,13 +48,8 @@
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <i>"Transformando café em código desde 2022 ☕"</i>
-</div>
+</div>-->
 
-<!-- GitHub Snake Contribution -->
-<div align="center">
-  <h2>🐍 Minha Cobra no GitHub</h2>
-  
-  <img src="https://github.com/JulioCesarSilva99/JulioCesarSilva99/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
-</div>
+
