@@ -12,7 +12,7 @@
 
  🌱 Atualmente cursando o Programa Jovem Programador;
  
- 🎯 Foco em Java;
+ 🎯 Foco em Java, HTML, JavaScript e CSS;
  
  📚 Sempre querendo aprendendo algo novo;
  
