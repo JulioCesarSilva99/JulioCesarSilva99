@@ -1,7 +1,7 @@
 
   <h1>Olá, eu sou o Julio Cesar 👋</h1>
   
-  <p>🚀 Aprendendo a desenvolver Java | Cursando o Programa Jovem Programador</p>
+  <p>🚀 Aprendendo a desenvolver Java, HTML, JavaScript e CSS | Cursando o Programa Jovem Programador</p>
 
   <!--<img src="https://komarev.com/ghpvc/?username=JulioCesarSilva99&color=6e40c9&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es" alt="Profile views" />
 </div>-->
