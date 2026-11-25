@@ -18,7 +18,7 @@
  
  💡 Aberto a colaborações e novos projetos;
 
-<!-- 🛠️ Tecnologias e Ferramentas
+< 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>-->
+</div>
 
 <!--### 📊 Estatísticas
 
